@@ -12,7 +12,7 @@
 <section align="left">
   <img src="https://komarev.com/ghpvc/?username=rukilaxy&label=Profile%20views&color=218a45&style=flat" alt="Profile Views" />
 
-  - 🌱 I’m currently learning **React, Redux, HTML, CSS, JavaScript...** to **learn** at <a href="https://www.betrybe.com">Trybe</a>
+  - 🌱 I’m currently learning **React, PHP, HTML, CSS, JavaScript...** to **learn** at <a href="https://www.betrybe.com">Trybe</a>
 
   - 📫 How to reach me **####**
   
@@ -89,6 +89,7 @@
     <img src="https://spotify-now-playing-lkotlarenko.vercel.app/api/spotify?background_color=181413&border_color=ffffff)" alt="Spotify now playing Rukilaxy"/>
   </a>
 </div>
+  
 
 <!-- Snake contributions graph https://github.com/Platane/snk -->
 <!-- <div align="center">
