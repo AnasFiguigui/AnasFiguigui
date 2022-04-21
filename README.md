@@ -14,7 +14,7 @@
 
   - ⚔️ I’m currently learning **React, PHP, HTML, CSS, JavaScript...** to **learn** at <a href="https://www.betrybe.com">Trybe</a>
 
-  - 🔭 How to reach me **####**
+  - 🔭 How to reach me **anas.production.af@gmail.com**
   
   <h3>Connect with me:</h3>
   <div>
@@ -84,11 +84,11 @@
 <br>
 
 <!-- Spotify Now Playing Card https://github.com/novatorem/novatorem -->
-<div align="center">
+<!-- <div align="center">
   <a href="https://open.spotify.com/user/314wg3netrfr6f2d7opltajhhqzm?si=734841af35a9461f">
     <img src="https://spotify-now-playing-lkotlarenko.vercel.app/api/spotify?background_color=181413&border_color=ffffff)" alt="Spotify now playing Rukilaxy"/>
   </a>
-</div>
+</div> -->
   
 
 <!-- Snake contributions graph https://github.com/Platane/snk -->
