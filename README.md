@@ -21,13 +21,13 @@
     <a href="https://www.linkedin.com/in/anas-figuigui-292730236/">
       <img align="center" src="https://raw.githubusercontent.com/lkotlarenko/lkotlarenko/main/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
     </a>
-    <a href="https://dev.to/lkotlarenko">
+    <a href="https://dev.to/rukilaxy">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/lkotlarenko" height="30" width="40" />
     </a>
-    <a href="https://codepen.io/lkotlarenko">
+    <a href="https://codepen.io/rukilaxy">
       <img align="center" src="https://raw.githubusercontent.com/lkotlarenko/lkotlarenko/main/src/images/icons/Social/codepen.svg" alt="codepen" height="30" width="40" />
     </a>
-    <a href="https://www.last.fm/user/lkotlarenko">
+    <a href="https://www.last.fm/user/AnasFiguigui">
       <img align="center" src="https://raw.githubusercontent.com/lkotlarenko/lkotlarenko/main/src/images/icons/Social/last-fm.svg" alt="last.fm" height="30" width="40" />
     </a>
   </div>
