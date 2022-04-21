@@ -1,12 +1,12 @@
 <!-- 
-### Hey 👋 ! I'm Anas Figuigui a Full-Stack Web Student. also as a freelancer, passionate about games developpement.
+###Hey 👋 ! I'm Anas Figuigui  a Full-Stack Web Student. also as a freelancer, passionate about games developpement.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rukilaxy)](https://github.com/rukilaxy/github-readme-stats) -->
 <!-- Thanks to https://github.com/rahuldkjain/github-profile-readme-generator -->
 
 <header>
-  <h1 align="center">Hi, I'm Léo!</h1>
-  <h3 align="center">A passionate student from Brazil :D</h3>
+  <h1 align="center">Hey 👋 I'm Anas Figuigui!</h1>
+  <h3 align="center">a Full-Stack Web Student. also as a freelancer, passionate about games developpement. :D</h3>
 </header>
 
 <section align="left">
