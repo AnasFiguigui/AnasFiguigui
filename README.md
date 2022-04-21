@@ -91,12 +91,12 @@
 </div>
 
 <!-- Snake contributions graph https://github.com/Platane/snk -->
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/rukilaxy#user-activity-overview">
     <img src="https://github.com/rukilaxy/rukilaxy/blob/output/github-contribution-grid-snake.svg" alt="Snake contributions animation"/>
   </a>
   <br>
-</div>
+</div> -->
   
 <!-- GitHub Profile Trophies https://github.com/ryo-ma/github-profile-trophy -->
 <div align="center">
