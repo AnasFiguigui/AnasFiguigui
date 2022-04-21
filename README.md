@@ -12,24 +12,24 @@
 <section align="left">
   <img src="https://komarev.com/ghpvc/?username=rukilaxy&label=Profile%20views&color=218a45&style=flat" alt="Profile Views" />
 
-  - 🌱 I’m currently learning **React, PHP, HTML, CSS, JavaScript...** to **learn** at <a href="https://www.betrybe.com">Trybe</a>
+  - ⚔️ I’m currently learning **React, PHP, HTML, CSS, JavaScript...** to **learn** at <a href="https://www.betrybe.com">Trybe</a>
 
-  - 📫 How to reach me **####**
+  - 🔭 How to reach me **####**
   
   <h3>Connect with me:</h3>
   <div>
     <a href="https://www.linkedin.com/in/anas-figuigui-292730236/">
-      <img align="center" src="https://raw.githubusercontent.com/lkotlarenko/lkotlarenko/main/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+      <img align="center" src="https://www.svgrepo.com/show/217760/linkedin.svg" alt="linkedin" height="30" width="40" />
     </a>
     <a href="https://dev.to/rukilaxy">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/lkotlarenko" height="30" width="40" />
+      <img align="center" src="https://www.svgrepo.com/show/349334/dev-to.svg" height="30" width="40" />
     </a>
     <a href="https://codepen.io/rukilaxy">
-      <img align="center" src="https://raw.githubusercontent.com/lkotlarenko/lkotlarenko/main/src/images/icons/Social/codepen.svg" alt="codepen" height="30" width="40" />
+      <img align="center" src="https://cdn.dribbble.com/users/299/screenshots/5648722/codepen-logo-gifc2.gif" alt="codepen" height="30" width="40" />
     </a>
-    <a href="https://www.last.fm/user/AnasFiguigui">
+<!--     <a href="https://www.last.fm/user/AnasFiguigui">
       <img align="center" src="https://raw.githubusercontent.com/lkotlarenko/lkotlarenko/main/src/images/icons/Social/last-fm.svg" alt="last.fm" height="30" width="40" />
-    </a>
+    </a> -->
   </div>
 
   <h3>Languages and Tools that I am learning / have interest:</h3>
@@ -37,9 +37,6 @@
 <!--     <a href="https://www.linux.org/">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     </a> -->
-    <a href="https://git-scm.com/">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
     <a href="https://www.w3schools.com/css/">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
     </a>
@@ -55,8 +52,11 @@
     <a href="https://redux.js.org">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <a href="https://www.javascripttutorial.net/">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    </a>
+    <a href="https://git-scm.com/">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     </a>
 <!--     <a href="https://jestjs.io">
       <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
