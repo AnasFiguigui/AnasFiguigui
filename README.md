@@ -75,10 +75,10 @@
 </section>
 
 <!-- GitHub readme stats https://github.com/anuraghazra/github-readme-stats -->
-<div align="left">
+<div align="center">
   <a href="https://github.com/rukilaxy#user-activity-overview">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rukilaxy&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=181413&locale=en&layout=slim&hide_border=true&langs_count=4" height="220"  width="47%" alt="lkotlarenko top languages used" />
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=rukilaxy&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=181413&locale=en&hide_border=true&include_all_commits=true" alt="rukilaxy contributions overview" height="220" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rukilaxy&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=181413&locale=en&layout=slim&hide_border=true&langs_count=4" height="200"  alt="lkotlarenko top languages used" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rukilaxy&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=181413&locale=en&hide_border=true&include_all_commits=true" alt="rukilaxy contributions overview" height="200" />
   </a>
 </div>
 <br>
