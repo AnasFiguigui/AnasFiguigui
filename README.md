@@ -34,7 +34,7 @@
 
   <h3>Languages and Tools that I am learning / have interest:</h3>
   <div>
-<!--     <a href="https://www.linux.org/">
+<!--    <a href="https://www.linux.org/">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     </a> -->
     <a href="https://www.w3schools.com/css/">
