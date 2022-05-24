@@ -77,8 +77,8 @@
 <!-- GitHub readme stats https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
   <a href="https://github.com/rukilaxy#user-activity-overview">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rukilaxy&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=181413&locale=en&layout=slim&hide_border=true&langs_count=4" height="210"  alt="lkotlarenko top languages used" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rukilaxy&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=181413&locale=en&hide_border=true&include_all_commits=true" alt="rukilaxy contributions overview" height="210" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnasFiguigui&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=181413&locale=en&layout=slim&hide_border=true&langs_count=4" height="210"  alt="lkotlarenko top languages used" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnasFiguigui&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=181413&locale=en&hide_border=true&include_all_commits=true" alt="rukilaxy contributions overview" height="210" />
   </a>
 </div>
 <br>
@@ -102,7 +102,7 @@
 <!-- GitHub Profile Trophies https://github.com/ryo-ma/github-profile-trophy -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rukilaxy&theme=onestar&no-frame=true" alt="lkotlarenko Profile Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=AnasFiguigui&theme=onestar&no-frame=true" alt="lkotlarenko Profile Trophies" />
   </a>
 </div>
 
