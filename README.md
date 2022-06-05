@@ -6,13 +6,13 @@
 
 <header>
   <h1 align="center">Hey ⚔️ I'm Anas Figuigui!</h1>
-  <h3 align="center">a Full-Stack Web Student. also as a freelancer, passionate about games developpement. :D</h3>
+  <h3 align="center">future Full-Stack Web developer. also as a freelancer, passionate about games developpement. :D</h3>
 </header>
 
 <section align="left">
-  <img src="https://komarev.com/ghpvc/?username=rukilaxy&label=Profile%20views&color=218a45&style=flat" alt="Profile Views" />
+<!--   <img src="https://komarev.com/ghpvc/?username=rukilaxy&label=Profile%20views&color=218a45&style=flat" alt="Profile Views" /> -->
 
-  - ⚔️ I’m currently learning **React, PHP, HTML, CSS, JavaScript...** to **learn** at <a href="https://openclassrooms.com/fr/courses">OpenClassrooms</a>
+  - ⚔️ I’m currently learning **React, PHP, JQuery, JavaScript...** to **learn** at <a href="https://openclassrooms.com/fr/courses">OpenClassrooms</a>
 
   - 🔭 How to reach me **anas.production.af@gmail.com**
   
@@ -25,7 +25,7 @@
       <img align="center" src="https://www.svgrepo.com/show/349334/dev-to.svg" height="30" width="40" />
     </a>
     <a href="https://codepen.io/rukilaxy">
-      <img align="center" src="https://cdn.dribbble.com/users/299/screenshots/5648722/codepen-logo-gifc2.gif" alt="codepen" height="30" width="40" />
+      <img align="center" src="https://user-images.githubusercontent.com/92400545/172053818-cf78ceda-90b4-4af1-a344-a41eff551281.png" alt="codepen" height="30" />
     </a>
 <!--     <a href="https://www.last.fm/user/AnasFiguigui">
       <img align="center" src="https://raw.githubusercontent.com/lkotlarenko/lkotlarenko/main/src/images/icons/Social/last-fm.svg" alt="last.fm" height="30" width="40" />
