@@ -12,7 +12,7 @@
 <section align="left">
 <!--   <img src="https://komarev.com/ghpvc/?username=rukilaxy&label=Profile%20views&color=218a45&style=flat" alt="Profile Views" /> -->
 
-  - ⚔️ I’m currently learning **React, PHP, JQuery, JavaScript...** to **learn** at <a href="https://openclassrooms.com/fr/courses">OpenClassrooms</a>
+  - ⚔️ I’m currently learning **React, PHP, JQuery, JavaScript...** to **learn** at <a href="https://openclassrooms.com/fr/courses">OpenClassrooms.</a>
 
   - 🔭 How to reach me **anas.production.af@gmail.com**
   
