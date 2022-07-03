@@ -12,7 +12,7 @@
 <section align="left">
 <!--   <img src="https://komarev.com/ghpvc/?username=rukilaxy&label=Profile%20views&color=218a45&style=flat" alt="Profile Views" /> -->
 
-  - ⚔️ I’m currently learning **React, PHP, JQuery, JavaScript...** to **learn** at <a href="https://openclassrooms.com/fr/courses">OpenClassrooms.</a>
+  - ⚔️ I’m currently learning **React, Laravel, Node.Js, JavaScript...** to **learn** at <a href="https://openclassrooms.com/fr/courses">OpenClassrooms.</a>
 
   - 🔭 How to reach me **anas.production.af@gmail.com**
   
@@ -34,15 +34,15 @@
 
   <h3>Languages and Tools that I am learning / have interest:</h3>
   <div>
-<!--    <a href="https://www.linux.org/">
+<!-- <a href="https://www.linux.org/">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-    </a> -->
-    <a href="https://www.w3schools.com/css/">
+    </a>-->
+    <!--<a href="https://www.w3schools.com/css/">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
     </a>
     <a href="https://www.w3.org/html/">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a>
+    </a> -->
     <a href="https://tailwindcss.com/">
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
     </a>
@@ -70,6 +70,12 @@
     <a href="https://docker.com/">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
     </a> -->
+     <a href="https://laravel.com/">
+      <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="lravel" width="40" height="40"/>
+    </a>
+     <a href="https://angular.io/">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" alt="Angular" width="60" height="40"/>
+    </a>
     <a>
   </p>
 </section>
