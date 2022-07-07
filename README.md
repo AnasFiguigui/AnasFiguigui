@@ -73,8 +73,8 @@
      <a href="https://laravel.com/">
       <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="lravel" width="40" height="40"/>
     </a>
-     <a href="https://angular.io/">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" alt="Angular" width="60" height="40"/>
+     <a href="https://nodejs.org/en/">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" alt="Angular" width="60" height="37"/>
     </a>
     <a>
   </p>
