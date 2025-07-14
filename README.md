@@ -6,11 +6,12 @@
 
 <header>
   <h1 align="center">Hey ⚔️ I'm Anas Figuigui!</h1>
-  <h3 align="center">Back-end developer MACH architecture. also as a game developer, passionate about making games. :D</h3>
-</header>
-<div align="center">
+  <div align="center">
   <img src="https://i.ibb.co/TDv3kQTX/zack-cy-sewer-thing-full-artstation2.jpg" alt="Zack Sewer Artwork" style="max-width: 100%; height: auto;" />
 </div>
+  <h3 align="center">Back-end developer MACH architecture. also as a game developer, passionate about making games. :D</h3>
+</header>
+
 
 <section align="left">
 <!--   <img src="https://komarev.com/ghpvc/?username=rukilaxy&label=Profile%20views&color=218a45&style=flat" alt="Profile Views" /> -->
