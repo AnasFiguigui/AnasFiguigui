@@ -86,7 +86,7 @@
 
 <!-- GitHub readme stats https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anasfiguigui&show_icons=true&theme=dark&locale=en" alt="anasfiguigui" style="display:inline-block; margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anasfiguigui&show_icons=true&theme=dark&locale=en" alt="anasfiguigui" style="display:inline-block; margin-right: 0px;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anasfiguigui&theme=dark" alt="anasfiguigui" style="display:inline-block;" />
 </p>
 <br>
