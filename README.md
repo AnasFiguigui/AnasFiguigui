@@ -92,9 +92,10 @@
 <br>
   
 <!-- GitHub Profile Trophies https://github.com/ryo-ma/github-profile-trophy -->
+
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AnasFiguigui&theme=onestar&no-frame=true&row=1&column=10" alt="AnasFiguigui Profile Trophies" />
-  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anasfiguigui&row=1&column=9&theme=onestar" alt="anasfiguigui" /></a>
 </p>
+
+
 
