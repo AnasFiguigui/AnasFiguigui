@@ -87,7 +87,7 @@
 
 <!-- GitHub readme stats https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anasfiguigui&show_icons=true&theme=dark&locale=en" alt="anasfiguigui" width="380" />
+  <img src="https://github-readme-stats-nine-ruddy-9mj43zu9i6.vercel.app/api?username=anasfiguigui&show_icons=true&theme=dark&locale=en" alt="anasfiguigui" width="380" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anasfiguigui&theme=dark" alt="anasfiguigui" width="400" />
 </p>
 <br>
@@ -95,7 +95,7 @@
 <!-- GitHub Profile Trophies https://github.com/ryo-ma/github-profile-trophy -->
 
 <p align="center">
-  <a href="https://github.com/anasfiguigui/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anasfiguigui&row=1&column=9&theme=onestar" alt="anasfiguigui" /></a>
+  <a href="https://github.com/anasfiguigui/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=anasfiguigui&row=1&column=9&theme=onestar" alt="anasfiguigui" /></a>
 </p>
 
 
