@@ -1,11 +1,5 @@
-<!-- 
-###Hey 👋 ! I'm Anas Figuigui  a Full-Stack Web Student. also as a freelancer, passionate about games developpement.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rukilaxy)](https://github.com/rukilaxy/github-readme-stats) -->
-<!-- Thanks to https://github.com/rahuldkjain/github-profile-readme-generator -->
-
 <header>
-  <h1 align="center">Hey ⚔️ I'm Anas Figuigui!</h1>
+  <h1 align="center"> Hey, I'm Anas Figuigui! <img src="https://cdn3.emoji.gg/emojis/6248-axolotlrgb.gif" width="40" height="40" >  </h1>
   <div align="center">
   <img src="https://i.ibb.co/TDv3kQTX/zack-cy-sewer-thing-full-artstation2.jpg" alt="Zack Sewer Artwork" style="max-width: 100%; height: auto;" />
 </div>
@@ -14,25 +8,27 @@
 
 
 <section align="left">
-<!--   <img src="https://komarev.com/ghpvc/?username=rukilaxy&label=Profile%20views&color=218a45&style=flat" alt="Profile Views" /> -->
 
-  - ⚔️ I’m currently learning **React, Laravel, Node.Js, JavaScript...** to **learn** at <a href="https://openclassrooms.com/fr/courses">OpenClassrooms.</a>
+  <!-- - <img src="https://cdn3.emoji.gg/emojis/588030-axolotlwalk.gif" width="20" height="20" > I’m currently learning **React, Laravel, Node.Js, JavaScript...** to **learn** at <a href="https://openclassrooms.com/fr/courses">OpenClassrooms.</a> -->
+  - <img src="https://cdn3.emoji.gg/emojis/588030-axolotlwalk.gif" width="20" height="20" >  Actively building and contributing to open-source projects - open to collaboration.
 
-  - 🔭 How to reach me **anas.production.af@gmail.com**
+  - <img src="https://cdn3.emoji.gg/emojis/606216-chicken.gif" width="20" height="20" > How to reach me **anas.production.af@gmail.com**
+
+  - <img src="https://cdn3.emoji.gg/emojis/9188-catdance.gif" width="20" height="20" style="margin-top: 200px;" > Check out my [portfolio](https://anasfiguigui.xyz/)!
   
   <h3>Connect with me:</h3>
   <div>
     <a href="https://www.linkedin.com/in/anas-figuigui-292730236/">
       <img align="center" src="https://www.svgrepo.com/show/217760/linkedin.svg" alt="linkedin" height="30" width="40" />
     </a>
-    <a href="https://dev.to/rukilaxy">
+    <a href="https://dev.to/anasfiguigui">
       <img align="center" src="https://www.svgrepo.com/show/349334/dev-to.svg" height="30" width="40" />
     </a>
     <a href="https://codepen.io/rukilaxy">
       <img align="center" src="https://user-images.githubusercontent.com/92400545/172053818-cf78ceda-90b4-4af1-a344-a41eff551281.png" alt="codepen" height="30" />
     </a>
-<!--     <a href="https://www.last.fm/user/AnasFiguigui">
-      <img align="center" src="https://raw.githubusercontent.com/lkotlarenko/lkotlarenko/main/src/images/icons/Social/last-fm.svg" alt="last.fm" height="30" width="40" />
+    <!-- <a href="https://anasfiguigui.itch.io/">
+      <img align="center" src="https://fontawesome.com/v5/icons/itch-io?f=brands&s=solid" alt="codepen" height="30" />
     </a> -->
   </div>
 
@@ -85,14 +81,14 @@
 </section>
 <br>
 
-<!-- GitHub readme stats https://github.com/anuraghazra/github-readme-stats -->
+<!-- GitHub readme stats -->
 <p align="center">
   <img src="https://github-readme-stats-anasfiguigui.vercel.app/api?username=anasfiguigui&show_icons=true&theme=dark&locale=en" alt="anasfiguigui" width="380" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anasfiguigui&theme=dark" alt="anasfiguigui" width="400" />
 </p>
 <br>
   
-<!-- GitHub Profile Trophies https://github.com/ryo-ma/github-profile-trophy -->
+<!-- GitHub Profile Trophies -->
 
 <p align="center">
   <a href="https://github.com/anasfiguigui/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=anasfiguigui&row=1&column=9&theme=onestar" alt="anasfiguigui" /></a>
