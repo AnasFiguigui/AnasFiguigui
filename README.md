@@ -8,8 +8,6 @@
 
 
 <section align="left">
-
-  <!-- - <img src="https://cdn3.emoji.gg/emojis/588030-axolotlwalk.gif" width="20" height="20" > I’m currently learning **React, Laravel, Node.Js, JavaScript...** to **learn** at <a href="https://openclassrooms.com/fr/courses">OpenClassrooms.</a> -->
   - <img src="https://cdn3.emoji.gg/emojis/588030-axolotlwalk.gif" width="20" height="20" >  Actively building and contributing to open-source projects - open to collaboration.
 
   - <img src="https://cdn3.emoji.gg/emojis/606216-chicken.gif" width="20" height="20" > How to reach me **anas.production.af@gmail.com**
@@ -34,10 +32,6 @@
 
   <h3>Languages and Tools that I am using or have interest in:</h3>
   <div>
-    <!--
-    <a href="https://www.w3.org/html/">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a> -->
     <a href="https://tailwindcss.com/">
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
     </a>
