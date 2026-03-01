@@ -85,9 +85,9 @@
   
 <!-- GitHub Profile Trophies -->
 
-<p align="center">
-  <a href="https://github.com/anasfiguigui/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=anasfiguigui&row=1&column=9&theme=onestar" alt="anasfiguigui" /></a>
-</p>
+<!-- <p align="center">
+  <a href="https://github.com/anasfiguigui/github-profile-trophy"><img src="https://github-profile-trophy-ten-beige.vercel.app/?username=anasfiguigui&row=1&column=9&theme=onestar" alt="anasfiguigui" /></a>
+</p> -->
 
 
 
