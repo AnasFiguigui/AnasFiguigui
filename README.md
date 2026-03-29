@@ -1,7 +1,8 @@
 <header>
   <h1 align="center"> Hey, I'm Anas Figuigui! <img src="https://cdn3.emoji.gg/emojis/6248-axolotlrgb.gif" width="40" height="40" >  </h1>
   <div align="center">
-  <img src="https://i.ibb.co/TDv3kQTX/zack-cy-sewer-thing-full-artstation2.jpg" alt="Zack Sewer Artwork" style="max-width: 100%; height: auto;" />
+  <!-- <img src="https://i.ibb.co/TDv3kQTX/zack-cy-sewer-thing-full-artstation2.jpg" alt="Zack Sewer Artwork" style="max-width: 100%; height: auto;" /> -->
+  <img src="https://i.ibb.co/1J6x9dKB/Adobe-Stock-2078548601.jpg" alt="Zack Sewer Artwork" style="max-width: 100%; height: auto;" />
 </div>
   <h3 align="center">Back-end developer MACH architecture. also as a game developer, passionate about making games. :D</h3>
 </header>
